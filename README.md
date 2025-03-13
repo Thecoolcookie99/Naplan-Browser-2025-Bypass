@@ -10,13 +10,18 @@ This repository is to show how bad and useless the naplan browser is, I don't en
 6. You can now use the browser as a normal ios app!
 
 ## MacOS guide:
-1. Open settings > Accessibility > Accessibility shortcut and enable all options if you havent done so
-2. Open Nap Locked down browser
-3. Press Command-Q to open up the admin password prompt
-4. Open guided access by pressing "command + option + fn + F5 (microphone button)
+1. Open **settings > Accessibility > Accessibility shortcut**, and enable all options if disabled
+2. Open Naplan Locked down browser 2025
+3. Press Command - Q to open up the admin password prompt
+4. Open guided access by pressing **command + option + fn + F5 (microphone button)**
 5. A menu will show up. At the bottom are three buttons. Press "Keyboard shortcuts", pressing F4 (the search icon) immediatly after.
 
    ### This will put the app in a state, where if the tabs are moved, it will re-enter the Nap Browser if other apps are opened/selected.
 
 7. If the naplan browser is covering up the app changer, drag the browser down and repeat steps **3** to **5**
 8. Press the "**+**" button in the top right to open a new desktop. from there, you can open apps via cmd+space, the dock, or the desktop
+
+
+
+
+*The Naplan 2025 locked down browser has bypasses for all devices, I have discovered these NAP2025 bypasses myself. Naplan 2025 bypass locked down browser bypass are some different names for it.*
