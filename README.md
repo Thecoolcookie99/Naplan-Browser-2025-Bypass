@@ -14,7 +14,7 @@ This repository is to show how bad and useless the naplan browser is, I don't en
 2. Open Naplan Locked down browser 2025
 3. Press Command - Q to open up the admin password prompt
 4. Open guided access by pressing **command + option + fn + F5 (microphone button)**
-5. A menu will show up. At the bottom are three buttons. Press "Keyboard shortcuts", pressing F4 (the search icon) immediatly after.
+5. A menu will show up. At the bottom are three buttons. Press "Keyboard shortcuts", pressing F3 immediatly after.
 
    ### This will put the app in a state, where if the tabs are moved, it will re-enter the Nap Browser if other apps are opened/selected.
 
