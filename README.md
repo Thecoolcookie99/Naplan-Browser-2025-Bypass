@@ -1,5 +1,5 @@
 # NapBrowserBypass
-This repository is to show how bad and useless the naplan browser is, I don't endorse cheating with this
+This repository is to show how bad and useless the naplan browser is, I don't endorse cheating with this. Please do not use this to cheat or violate academic integrity.
 
 ## IOS guide:
 1. Open settings
