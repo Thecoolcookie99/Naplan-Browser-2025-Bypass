@@ -29,7 +29,7 @@ This repository is to show how bad and useless the naplan browser is, I don't en
 3. Close laptop screen for 2 seconds
 4. Reopen screen when ready
 5. right click a folder or app and
-6. Right click an app/foledr and press "open"
+6. Right click an app/folder and press "open"
 7. click and hold the top of the opened app/finder window until the app opens to fullscreen
 8. change windows by swiping with 3-4 fingers on the touchpad. Close the app/folder
 
