@@ -1,6 +1,8 @@
 # NapBrowserBypass
 This repository is to show how bad and useless the naplan browser is, I don't endorse cheating with this. Please do not use this to cheat or violate academic integrity.
 
+# NOTE: MACOS METHODS BLOCK SOME APPS - DOWNLOAD OPERA GX OR ENABLE FAST USER SWITCHING IN SETTINGS
+
 ## IOS guide:
 1. Open settings
 2. Search "Guided Access" in the searchbar, or go to Settings > Accessibility > Guided Access and toggle it on
@@ -21,7 +23,15 @@ This repository is to show how bad and useless the naplan browser is, I don't en
 7. If the naplan browser is covering up the app changer, drag the browser down and repeat steps **3** to **5**
 8. Press the "**+**" button in the top right to open a new desktop. from there, you can open apps via cmd+space, the dock, or the desktop
 
-
+## MacOS guide by @miklie_ (Discord)
+1. Close all apps, then open naplan browser
+2. When you need to exit, press command + Q
+3. Close laptop screen for 2 seconds
+4. Reopen screen when ready
+5. right click a folder or app and
+6. Right click an app/foledr and press "open"
+7. click and hold the top of the opened app/finder window until the app opens to fullscreen
+8. change windows by swiping with 3-4 fingers on the touchpad. Close the app/folder
 
 
 *The Naplan 2025 locked down browser has bypasses for all devices, I have discovered these NAP2025 bypasses myself. Naplan 2025 bypass locked down browser bypass are some different names for it.*
