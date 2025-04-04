@@ -47,7 +47,7 @@ This repository is to show how bad and useless the naplan browser is, I don't en
 ## All device guide (access to internet)
 1. Open NAP locked down browser. You may need to write this guide down before opening it
 2. If you are in the menu screen, proceed to step 3. Otherwise, press cmd+left arrowkey to go back untill you get to the menu or press cmd+right to go forwards.
-3. Go to device check *->* nap opt in *->* request to register *->* www.acara.edu.au/contact-us/privacy-policy *->* scroll to the bottom and press YouTube *->* search “google link” in search bar *->* click the google link in a video description (may take a few tries) *->* search up whatever you need to.
+3. Go to device check *->* nap opt in *->* request to register *->* www.acara.edu.au/contact-us/privacy *->* scroll to the bottom and press YouTube *->* search “google link” in search bar *->* click the google link in a video description (may take a few tries) *->* search up whatever you need to.
 4. You now have access to google inside of the browser. To play minecraft 1.8.8 inside the browser, search up "Eaglercraft q13x", and click the top link with the crafting table.
 
 
